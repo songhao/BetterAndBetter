@@ -8,7 +8,7 @@
         <item>
             <title>Version 1.0.1</title>
             <pubDate>2015-10-19 16:34 +8</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201706/20/6/macstroke_1.0.1.zip" sparkle:version="1.0.1" length="1958903" type="application/octet-stream" />
+            <enclosure url="http://att4.weiphone.net/temp16/201706/20/6/macstroke_1.0.1.zip" sparkle:version="1.0.1" length="1958903" type="application/octet-stream">
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
         </item>
 
