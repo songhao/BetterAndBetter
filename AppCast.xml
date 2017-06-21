@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+    <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <channel>
-        <title>BetterAndBetter</title>
-        <link>https://raw.githubusercontent.com/songhao/BetterAndBetter/master/AppCast.xml</link>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
+	<channel>
+		<title>BetterAndBetter</title>
+		<link>https://raw.githubusercontent.com/songhao/BetterAndBetter/master/AppCast.xml</link>
+		<description>Most recent changes with links to updates.</description>
+		<language>en</language>
         <item>
-            <title>Version 1.0.1</title>
-            <pubDate>2015-10-19 16:34 +8</pubDate>
-            <enclosure url="https://github.com/songhao/BetterAndBetter/blob/master/MacStroke_1.0.1.zip"  length="1958903" type="application/octet-stream" sparkle:version="2.0" sparkle:shortVersionString="1.0.1">
-            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <title><![CDATA[Version 1.0.1]]></title>
+            <description><![CDATA[<ul>
+                <li>修复问题</li>
+                </ul>
+            ]]></description>
+            <pubDate>2017-06-08 01:47:00 GMT</pubDate>
+            <enclosure url="https://github.com/songhao/BetterAndBetter/blob/master/MacStroke_1.0.1.zip" length="1958903" type="application/octet-stream" sparkle:version="2.0" sparkle:shortVersionString="1.0.1">
+            </enclosure>
         </item>
-
-        </channel>
+	</channel>
 </rss>
