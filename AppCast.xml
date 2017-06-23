@@ -6,9 +6,9 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version1.0.4</title>
+      <title>Version1.0.5</title>
       <pubDate>2017-06-06 23:15:44 +8</pubDate>
-      <enclosure url="https://github.com/mtjo/MacStroke/raw/release/Download/MacStroke-1.0.4.zip" sparkle:version="1.0.4" length="1677939" type="application/octet-stream" sparkle:dsaSignature="MC0CFBydmN03b0zSA17X1wU+1xqC91wNAhUAmQmvcKGbBNsBwcQ4qxurH9qbI1o=" />
+      <enclosure url="https://github.com/mtjo/MacStroke/raw/release/Download/MacStroke-1.0.4.zip" sparkle:version="1.0.5" length="1677939" type="application/octet-stream" sparkle:dsaSignature="MC0CFBydmN03b0zSA17X1wU+1xqC91wNAhUAmQmvcKGbBNsBwcQ4qxurH9qbI1o=" />
       <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
     </item>
   </channel>
