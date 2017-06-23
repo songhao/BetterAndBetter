@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>MacStroke Changelog</title>
-    <link>https://raw.githubusercontent.com/mtjo/MacStroke/release/AppCast.xml</link>
+    <title>MacStroke songhao</title>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
       <title>Version1.0.1</title>
       <sparkle:releaseNotesLink>
-        https://raw.githubusercontent.com/mtjo/MacStroke/release/Changelog/1.0.4.html
+       -- https://raw.githubusercontent.com/mtjo/MacStroke/release/Changelog/1.0.4.html
       </sparkle:releaseNotesLink>
       <pubDate>2017-06-06 23:15:44 +8</pubDate>
       <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/MacStroke-1.0.1.zip" sparkle:version="1.0.1" length="1677939" type="application/octet-stream"  />
