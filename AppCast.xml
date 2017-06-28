@@ -13,5 +13,14 @@
       <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/MacStroke-1.0.1.zip" sparkle:version="1.0.1" length="1677939" type="application/octet-stream"  />
       <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
     </item>
+     <item>
+      <title>Version1.0.2</title>
+      <sparkle:releaseNotesLink>
+       
+      </sparkle:releaseNotesLink>
+      <pubDate>2017-06-28 12:15:44 +8</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter-1.0.2.zip" sparkle:version="1.0.2" length="1964182" type="application/octet-stream"  />
+      <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+    </item>
   </channel>
 </rss>
