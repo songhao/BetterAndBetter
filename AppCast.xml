@@ -14,12 +14,12 @@
       <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
     </item>
      <item>
-      <title>Version1.0.6</title>
+      <title>Version1.0.7</title>
       <sparkle:releaseNotesLink>
        
       </sparkle:releaseNotesLink>
       <pubDate>2017-07-06 12:15:44 +8</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter-1.0.6.zip" sparkle:version="1.0.6" length="2068344" type="application/octet-stream"  />
+      <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter-1.0.7.zip" sparkle:version="1.0.7" length="2068344" type="application/octet-stream"  />
       <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
     </item>
   </channel>
