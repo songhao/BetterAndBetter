@@ -1,26 +1,19 @@
-r<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>MacStroke songhao</title>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-    <item>
-      <title>Version1.0.1</title>
-      <sparkle:releaseNotesLink>
-       
-      </sparkle:releaseNotesLink>
-      <pubDate>2017-06-06 23:15:44 +8</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/MacStroke-1.0.1.zip" sparkle:version="1.0.1" length="1677939" type="application/octet-stream"  />
-      <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-    </item>
-     <item>
-      <title>Version1.0.7</title>
-      <sparkle:releaseNotesLink>
-       
-      </sparkle:releaseNotesLink>
-      <pubDate>2017-07-06 12:15:44 +8</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter-1.0.7.zip" sparkle:version="1.0.7" length="2068344" type="application/octet-stream"  />
-      <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-    </item>
-  </channel>
+	<channel>
+		<title>Songhao</title>
+		<link>https://xxxxxx/app.xml</link>
+		<description>Songhao</description>
+		<language>en</language>
+        <item>
+            <title><![CDATA[Version 1.0.7]]></title>
+            <description><![CDATA[<ul>
+                <li>修复问题</li>
+                </ul>
+            ]]></description>
+            <pubDate>2017-06-08 01:47:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter-1.0.7.zip" length="xxx" type="application/octet-stream" sparkle:version="19" sparkle:shortVersionString="1.0.7">
+            </enclosure>
+        </item>
+	</channel>
 </rss>
