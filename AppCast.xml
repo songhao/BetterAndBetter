@@ -4,12 +4,20 @@ r<?xml version="1.0" encoding="utf-8"?>
     <title>BetterAndBetter songhao</title>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
+    <item>
+      <title>Version1.0.1</title>
+      <sparkle:releaseNotesLink>
+       
+      </sparkle:releaseNotesLink>
+      <pubDate>2017-06-06 23:15:44 +8</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/MacStroke-1.0.1.zip" sparkle:version="1.0.1" length="1677939" type="application/octet-stream"  />
+      <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+    </item>
      <item>
-      <title><![CDATA[Version 1.0.7]]></title>
-            <description><![CDATA[<ul>
-                <li>修复问题</li>
-                </ul>
-            ]]></description>
+      <title>Version1.0.7</title>
+      <sparkle:releaseNotesLink>
+       
+      </sparkle:releaseNotesLink>
       <pubDate>2017-07-06 12:15:44 +8</pubDate>
       <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter-1.0.7.zip" sparkle:version="1.0.7" length="2068344" type="application/octet-stream"  />
       <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
