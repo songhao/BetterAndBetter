@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Songhao</title>
-		<link>https://xxxxxx/app.xml</link>
-		<description>Songhao</description>
-		<language>en</language>
         <item>
             <title><![CDATA[Version 1.0.7]]></title>
             <description><![CDATA[<ul>
