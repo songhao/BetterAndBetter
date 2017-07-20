@@ -10,8 +10,6 @@
             <enclosure url="http://att4.weiphone.net/temp16/201707/14/c/betterandbetter-1.0.8.zip" length="xxx" type="application/octet-stream" sparkle:version="6" sparkle:shortVersionString="1.0.8">
             </enclosure>
         </item>
-	</channel>
-		<channel>
         <item>
             <description><![CDATA[<ul>
                 <li>增加了窗口管理功能</li>
