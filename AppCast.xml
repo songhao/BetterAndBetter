@@ -3,11 +3,11 @@
 	<channel>
         <item>
             <description><![CDATA[<ul>
-                <li>增加了窗口管理功能以及修改bug</li>
+                <li>修改bug</li>
                 </ul>
             ]]></description>
             <pubDate>2017-07-28 01:47:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201708/17/1/betterandbetter.zip" length="xxx" type="application/octet-stream" sparkle:version="7" sparkle:shortVersionString="1.0.9">
+            <enclosure url="http://att4.weiphone.net/temp16/201708/25/d/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="8" sparkle:shortVersionString="1.1.0">
             </enclosure>
         </item>
 	</channel>
