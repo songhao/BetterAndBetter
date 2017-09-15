@@ -3,11 +3,13 @@
 	<channel>
         <item>
             <description><![CDATA[<ul>
-                <li>修改bug</li>
+                <li>修改不少bug，也增加了一些新的功能</li>
+                <li>因为这次是大更新，最好请初始化</li>
+                <li>在终端执行 rm ~/Library/Preferences/com.sunny.BetterAndBetter.plist</li>
                 </ul>
             ]]></description>
             <pubDate>2017-07-28 01:47:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201708/25/d/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="8" sparkle:shortVersionString="1.1.0">
+            <enclosure url="http://att4.weiphone.net/temp16/201709/15/b/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="9" sparkle:shortVersionString="1.1.1">
             </enclosure>
         </item>
 	</channel>
