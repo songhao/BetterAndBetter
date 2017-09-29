@@ -12,5 +12,18 @@
             <enclosure url="http://att4.weiphone.net/temp16/201709/15/b/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="9" sparkle:shortVersionString="1.1.1">
             </enclosure>
         </item>
+	
+	<item>
+            <description><![CDATA[<ul>
+                <li>修改bug</li>
+                <li>增加里鼠标侧键的自定义，因为我鼠标没有侧键，请有的人测试一下</li>
+                <li>自动跳窗模块应该很少会乱跳窗了，也请测试</li>
+                <li>有问题请在http://bbs.feng.com/read-htm-tid-11032730.html留言，我会尽快回复，谢谢</li>
+                </ul>
+            ]]></description>
+            <pubDate>2017-09-28 01:47:00 GMT</pubDate>
+            <enclosure url="http://att4.weiphone.net/temp16/201709/29/c/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="10" sparkle:shortVersionString="1.1.1">
+            </enclosure>
+        </item>
 	</channel>
 </rss>
