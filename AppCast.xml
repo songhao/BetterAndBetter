@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-        <item>
-            <description><![CDATA[<ul>
-                <li>修改不少bug，也增加了一些新的功能</li>
-                <li>因为这次是大更新，最好请初始化</li>
-                <li>在终端执行 rm ~/Library/Preferences/com.sunny.BetterAndBetter.plist</li>
-                </ul>
-            ]]></description>
-            <pubDate>2017-07-28 01:47:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201709/15/b/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="9" sparkle:shortVersionString="1.1.1">
-            </enclosure>
-        </item>
-	
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
@@ -23,6 +11,19 @@
             ]]></description>
             <pubDate>2017-09-28 01:47:00 GMT</pubDate>
             <enclosure url="http://att4.weiphone.net/temp16/201709/29/c/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="10" sparkle:shortVersionString="1.1.1">
+            </enclosure>
+        </item>
+	</channel>
+		<channel>
+	<item>
+            <description><![CDATA[<ul>
+                <li>修改bug</li>
+                <li>进一步完善鼠标所有按键的自定义，因为我鼠标没有侧键，请有的人测试一下</li>
+                <li>创立了一个QQ用户群：392034113，欢迎大家讨论，反馈问题，谢谢</li>
+                </ul>
+            ]]></description>
+            <pubDate>2017-10-10 09:30:00 GMT</pubDate>
+            <enclosure url="http://att4.weiphone.net/temp16/201710/10/0/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.2" sparkle:shortVersionString="1.1.2">
             </enclosure>
         </item>
 	</channel>
