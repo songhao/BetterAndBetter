@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-	<channel>
-	<item>
-            <description><![CDATA[<ul>
-                <li>修改bug</li>
-                <li>增加里鼠标侧键的自定义，因为我鼠标没有侧键，请有的人测试一下</li>
-                <li>自动跳窗模块应该很少会乱跳窗了，也请测试</li>
-                <li>有问题请在http://bbs.feng.com/read-htm-tid-11032730.html留言，我会尽快回复，谢谢</li>
-                </ul>
-            ]]></description>
-            <pubDate>2017-09-28 01:47:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201709/29/c/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="10" sparkle:shortVersionString="1.1.1">
-            </enclosure>
-        </item>
-	</channel>
 		<channel>
 	<item>
             <description><![CDATA[<ul>
-                <li>有很多修改，你应先导出一个规则备用，然后在每个模块里按一下重置按钮</li>
+                <li>修改bug</li>
+               <li>请仔细阅读关于里面的说明，有很多改进</li>
                 </ul>
             ]]></description>
-            <pubDate>2017-10-21 09:30:00 GMT</pubDate>
-            <enclosure url="http://att6.weiphone.net/temp16/201710/21/1/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.4" sparkle:shortVersionString="1.1.4">
+            <pubDate>2017-10-30 09:30:00 GMT</pubDate>
+            <enclosure url="http://att4.weiphone.net/temp16/201710/30/b/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.5" sparkle:shortVersionString="1.1.5">
             </enclosure>
         </item>
 	</channel>
