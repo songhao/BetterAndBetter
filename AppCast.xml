@@ -4,11 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-               <li>请仔细阅读关于里面的说明，有很多改进</li>
+               <li>增加了学习功能，希望都能到学习模块看一看。用鼠标移动有些按钮或者文字上面，会显示一些提醒帮助，也许有你本来不知道的</li>
                 </ul>
             ]]></description>
-            <pubDate>2017-10-30 09:30:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201710/30/b/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.5" sparkle:shortVersionString="1.1.5">
+            <pubDate>2017-11-5 09:30:00 GMT</pubDate>
+            <enclosure url="http://att6.weiphone.net/temp16/201711/05/1/betterandbetter.app.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.6" sparkle:shortVersionString="1.1.6">
             </enclosure>
         </item>
 	</channel>
