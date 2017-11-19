@@ -5,13 +5,12 @@
             <description><![CDATA[<ul>
                 <li>修改bug</li>
                <li>增加了学习功能，希望都能到学习模块看一看。用鼠标移动有些按钮或者文字上面停留0.5秒以上，会显示一些提醒帮助，也许有你本来不知道的</li>
-               <li>增加了开机时自动登录功能，就是蓝牙设备在就自动登录，不在就阻止自动登录</li>
-               <li>完善了分屏功能，增加了窗口从分屏位置拖移出来时恢复原来的尺寸</li>
-               <li>增加了蓝牙设备离开时就屏保，接近时再恢复。。。。。。。。。。。</li>
+               <li>增加了对外接触摸板的控制，请有外接触摸板的人可以试试，提提意见，谢谢</li>
+          
                 </ul>
             ]]></description>
             <pubDate>2017-11-10 09:30:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201711/15/a/betterandbetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.8" sparkle:shortVersionString="1.1.8">
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.1.9" sparkle:shortVersionString="1.1.9">
             </enclosure>
         </item>
 	</channel>
