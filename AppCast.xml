@@ -10,7 +10,7 @@
                 </ul>
             ]]></description>
             <pubDate>2017-11-10 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.2.0" sparkle:shortVersionString="1.2.0">
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.2.1" sparkle:shortVersionString="1.2.1">
             </enclosure>
         </item>
 	</channel>
