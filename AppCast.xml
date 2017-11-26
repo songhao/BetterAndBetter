@@ -4,13 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-               <li>增加了学习功能，希望都能到学习模块看一看。用鼠标移动有些按钮或者文字上面停留0.5秒以上，会显示一些提醒帮助，也许有你本来不知道的</li>
-               <li>增加了对外接触摸板的控制，请有外接触摸板的人可以试试，提提意见，谢谢</li>
-          
+               <li>改善蓝牙屏保的准确率</li>    
                 </ul>
             ]]></description>
-            <pubDate>2017-11-10 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.2.1" sparkle:shortVersionString="1.2.1">
+            <pubDate>2017-11-26 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.2.2" sparkle:shortVersionString="1.2.2">
             </enclosure>
         </item>
 	</channel>
