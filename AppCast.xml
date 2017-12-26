@@ -4,13 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-               <li>进一步提高了蓝牙锁屏的抗干扰性</li>
-               <li>改善对外接trackpad的连接性能</li>
-               <li>感觉不正常时请点击通用面板里的初始化按钮</li>
+               <li>这次是大更新，必须在通用面板里的点击初始化按钮，否则会闪退</li>
                 </ul>
             ]]></description>
-            <pubDate>2017-12-13 09:30:00 GMT</pubDate>
-            <enclosure url="http://att4.weiphone.net/temp16/201712/13/b/betterandbetter.zip" length="xxx" type="application/octet-stream" sparkle:version="1.2.6" sparkle:shortVersionString="1.2.6">
+            <pubDate>2017-12-26 09:30:00 GMT</pubDate>
+            <enclosure url="http://feng-bbs-att-1255531212.cos.ap-shanghai.myqcloud.com/2017/12/26/14175347_BetterAndBetter.zip?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDroUF0K02NSaIe3jpCa3fKzeJzeKbulcT%26q-sign-time%3D1514249117%3B1514252777%26q-key-time%3D1514249117%3B1514252777%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D95b5c25d4e1d25e3f503dcd66312f056c58df82c" length="xxx" type="application/octet-stream" sparkle:version="1.2.8" sparkle:shortVersionString="1.2.8">
             </enclosure>
         </item>
 	</channel>
