@@ -8,7 +8,7 @@
                 </ul>
             ]]></description>
             <pubDate>2017-12-26 09:30:00 GMT</pubDate>
-            <enclosure url="http://feng-bbs-att-1255531212.cos.ap-shanghai.myqcloud.com/2017/12/26/14177501_BetterAndBetter.zip?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDroUF0K02NSaIe3jpCa3fKzeJzeKbulcT%26q-sign-time%3D1514299900%3B1514303560%26q-key-time%3D1514299900%3B1514303560%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D977a1c6702f6bb41ff2ee10da65a718f5636c3b1" sparkle:version="1.2.8" sparkle:shortVersionString="1.2.8">
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.2.8" sparkle:shortVersionString="1.2.8">
             </enclosure>
         </item>
 	</channel>
