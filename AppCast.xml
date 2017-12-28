@@ -4,11 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-               <li>这次是大更新，必须在通用面板里的点击初始化按钮，否则会闪退</li>
+               <li>从1.2.7之前版本升级的，必须在通用面板里的点击初始化按钮，否则会闪退</li>
                 </ul>
             ]]></description>
             <pubDate>2017-12-26 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.2.8" sparkle:shortVersionString="1.2.8">
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.2.9" sparkle:shortVersionString="1.2.9">
             </enclosure>
         </item>
 	</channel>
