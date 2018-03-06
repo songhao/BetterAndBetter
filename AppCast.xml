@@ -4,13 +4,12 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-               <li>请重置文件，文本跳窗模块，增加了一些实用功能，现在跳窗模块基本成熟了</li>
-               <li>进一步优化了平滑滚轮</li>
-               <li>从1.2.7之前版本升级的，必须在通用面板里的点击初始化按钮，否则会闪退</li>
+               <li>调整了学习模式，平滑滚轮，窗口管理，手势的帮助绘图在选择时出现了</li>
+               <li>请大家到学习模式里看看</li>
                 </ul>
             ]]></description>
-            <pubDate>2018-03-1 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.3.8" sparkle:shortVersionString="1.3.8">
+            <pubDate>2018-03-6 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.3.9" sparkle:shortVersionString="1.3.9">
             </enclosure>
         </item>
 	</channel>
