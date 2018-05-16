@@ -5,11 +5,12 @@
             <description><![CDATA[<ul>
                 <li>修改bug</li>
                 <li>增加功能：双击Command键，会显示当前程序和系统的快捷键，按修饰键或按住Fn键再点击其他按键，会显示相对应的规则。再次双击Command关闭显示</li>
+                <li>增加功能：增加隐藏平常不需要的菜单栏图标，按住Command键，拖移其他图标到“❮”左边的图标，点按“❮”后都会被隐藏</li>
                 <li>请大家到学习模式里看看</li>
                 </ul>
             ]]></description>
-            <pubDate>2018-04-29 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.4.8" sparkle:shortVersionString="1.4.8">
+            <pubDate>2018-05-16 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.4.9" sparkle:shortVersionString="1.4.9">
             </enclosure>
         </item>
 	</channel>
