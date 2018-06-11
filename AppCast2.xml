@@ -4,15 +4,10 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>增加功能：双击Command键，会显示当前程序和系统的快捷键，按修饰键或按住Fn键再点击其他按键，会显示相对应的规则。再次双击Command关闭显示</li>
-                <li>增加功能：增加隐藏平常不需要的菜单栏图标，按住Command键，拖移其他图标到“❮”左边的图标，点按“❮”后都会被隐藏</li>
-                <li>增加功能：增加敲击键盘时会模拟出老式打字机的敲击声音</li>
-                <li>完善功能：完善了对NTFS磁盘的读写功能，新版本直接加载在桌面上</li>
-                <li>完善功能：完善了对10.14的支持</li>
                 </ul>
             ]]></description>
             <pubDate>2018-06-09 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.5.4" sparkle:shortVersionString="1.5.4">
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/FASTNTFS.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1">
             </enclosure>
         </item>
 	</channel>
