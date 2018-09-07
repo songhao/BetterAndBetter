@@ -4,6 +4,7 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
+                <li>修改了打字音效导致打字卡顿</li>
                 <li>每个执行动作都加了勾选，请注意一下自己的配置</li>
                 </ul>
             ]]></description>
