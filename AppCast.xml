@@ -4,11 +4,12 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>增加崩溃时邮件反馈功能</li>
+                <li>完善了隐藏菜单栏图标模块</li>
+                <li>完善了在菜单栏显示系统信息,在工具箱里自定义</li>
                 </ul>
             ]]></description>
-            <pubDate>2018-10-08 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.01" sparkle:shortVersionString="1.6.01">
+            <pubDate>2018-11-02 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.02" sparkle:shortVersionString="1.6.02">
             </enclosure>
         </item>
 	</channel>
