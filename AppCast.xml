@@ -4,11 +4,10 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>进一步完善窗口管理模块,增加了第一窗口高亮效果</li>
                 </ul>
             ]]></description>
-            <pubDate>2018-12-14 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.07" sparkle:shortVersionString="1.6.07">
+            <pubDate>2018-12-22 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.08" sparkle:shortVersionString="1.6.08">
             </enclosure>
         </item>
 	</channel>
