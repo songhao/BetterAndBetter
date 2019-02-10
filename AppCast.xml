@@ -4,15 +4,12 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>修复了2018MacBook系列的风扇转速的显示</li>
-                <li>优化了蓝牙解锁的速度和稳定性，尤其是有Touch Bar的MacBook系列</li>
-                <li>修复和Excel的冲突，请大家测试</li>
-                <li> </li>
-                <li>祝大家新年快乐，越来越好</li>
+                <li>增加了清洁键盘，屏幕模式</li>
+                <li>调整了蓝牙开机，请重新勾选</li>
                 </ul>
             ]]></description>
-            <pubDate>2019-01-31 09:30:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.16" sparkle:shortVersionString="1.6.16">
+            <pubDate>2019-02-10 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.19" sparkle:shortVersionString="1.6.19">
             </enclosure>
         </item>
 	</channel>
