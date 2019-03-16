@@ -4,11 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>增加了长截图模块，在工具箱里设置</li>
+                <li>增加了好几个很有用的预设和新的功能，大家慢慢找到</li>
                 </ul>
             ]]></description>
-            <pubDate>2019-03-09 09:30:00 GMT</pubDate>
-            <enclosure url="http://suo.im/4MGa2E" sparkle:version="1.6.25" sparkle:shortVersionString="1.6.25">
+            <pubDate>2019-03-16 09:30:00 GMT</pubDate>
+            <enclosure url="http://suo.im/5EK7NJ" sparkle:version="1.6.31" sparkle:shortVersionString="1.6.31">
             </enclosure>
         </item>
 	</channel>
