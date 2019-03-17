@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/songhao/BetterAndBetter/blob/master/resources/img/better365.cn.png">
+</p>
+
+
 # BetterAndBetter
 
 BetterAndBetter 是一款集合众多优秀功能的 macOS 软件。包含🖱️鼠标、⌨️键盘、触摸板、情景模式、蓝牙解锁、自动切换输入法、:sound: 打字音效等功能，出色的创意和强大的功能将极大提升你的 macOS 使用体验。
