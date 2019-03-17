@@ -32,12 +32,33 @@
 
 ## 1. 触摸板模块
 
+<details>
+<summary> Screenshots </summary>
+
+通过在触摸板上单指、多指、点按、绘图等多个手势操作，代替点按图标，成倍提升工作效率。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/触摸模块.png' width="400"/>
+</p>
+</details> 
+
 1. 这个模块是手势识别应用程序，在 MacBook 系列里自带的触摸板上，软件会监听你几个手指，做不同的手势动作，如果手势被识别，BetterAndBetter 将执行已经制定规则的相应操作。
 2. 目前 BetterAndBetter 可以模拟按键，执行软件预设的命令，执行 apple script。
 3. 其中有一个开关是开启二指绘图功能，意思是按住一个手指，另一个手指在左侧轻拍一下，就可以用单指绘图了，相当于按住鼠标右键做拖移动作，就会执行鼠标模块里面的某些功能。
 4. 选择手势时如果选择黑名单，就会在你选择的程序里所有的手势不起作用。
 
 ## 2. 鼠标模块
+
+
+<details>
+<summary> Screenshots </summary>
+
+在鼠标上自定义各种各样的手势，无限扩展鼠标的多样操作性。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/鼠标模块.png' width="400"/>
+</p>
+</details> 
 
 1. 这个模块是鼠标手势识别应用程序。按住右键部分是在按住鼠标右键的同时使用鼠标进行的运动。 如果手势被识别，BetterAndBetter 将执行某些操作。
 2. 组合按键部分，是指按住鼠标右键，然后配合菜单里指示的动作去自定义执行动作。
@@ -47,11 +68,40 @@
 
 ## 3. 键盘模块
 
+<details>
+<summary> Screenshots </summary>
+
+自定义快捷键，繁琐操作一键搞定。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/键盘模块.png' width="400"/>
+</p>
+</details> 
 
 ## 4. 情景模式
 
+<details>
+<summary> Screenshots </summary>
+
+定制你的 Mac 情景模式，自动应对不同情景的变幻，让你的 Mac 更加智能。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/情景模式.png' width="400"/>
+</p>
+</details> 
+
 
 ## 5. 自动跳窗模块
+
+<details>
+<summary> Screenshots </summary>
+
+文本、文件快捷操作百宝箱
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/自动跳窗.png' width="400"/>
+</p>
+</details> 
 
 1. 这个模块类似 popclip 这个软件，按住鼠标左键，然后拖移去选择文本或者在 Finder 里面去选择文件，软件会根据不同的情况自动跳出不同的窗口，点击已经跳出的窗口，就可以执行相应的动作
 2. 因为有 2 个表格，所以先点击一个表格，然后在按“+”等按钮。表格里的内容都是可以修改的，特别提醒的是这两个表格里面的行是可以拖移的，以此来调整跳窗的先后次序。
@@ -67,9 +117,30 @@
 
 ## 6. 边角触发模块
 
+<details>
+<summary> Screenshots </summary>
+
+令人惊叹的快捷操作，闪电触发，一键抵达。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/四角触发.jpg' width="400"/>
+</p>
+</details> 
+
+
 这个模块是可以设定在不同的桌面时，左键或右键点击屏膜的四个角，可以分别设置一些动作，这些动作有快捷键，预设动作和 applescript 三种。
 
 ## 7. 窗口管理
+
+<details>
+<summary> Screenshots </summary>
+
+控制窗口用键盘、鼠标、还是触摸板？一切你说了算。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/窗口管理.png' width="400"/>
+</p>
+</details> 
 
 1. 当你移动窗口时，会自动出来八个提示框，分别代表分屏的位置。
 2. 吸附功能：当你用鼠标把一个窗口拖移向屏膜左边或者右边，当窗口的一边接近屏膜边缘时，在相应位置会出现一条黄色的线，此时松开鼠标按键，窗口就会吸附在屏幕一侧。当鼠标移动到已经有窗口吸附的屏膜的左边或者右边时，鼠标下被吸附的窗口就会自动弹出来。鼠标离开这个窗口时，窗口又会吸附在屏幕的两边，**注意：窗口宽度等于屏幕宽度的窗口是不会被吸附的**。
@@ -121,6 +192,16 @@ BetterAndBetter 可以记住你最近使用过的十个剪切板内容，你还�
    2. 按对应的数字键，调用固定的剪切板内容需要先按住Fn键，再按相应的数字键。
 
 ## 9. 脚本模块
+
+<details>
+<summary> Screenshots </summary>
+
+AppleScript，给 BetterAndBetter 和你的 macOS 带来无限可能。
+
+<p float="left">
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/脚本模块.png' width="400"/>
+</p>
+</details> 
 
 
 
