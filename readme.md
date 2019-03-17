@@ -126,6 +126,8 @@ BetterAndBetter 可以记住你最近使用过的十个剪切板内容，你还�
 
 ## 相关链接
 
+### [快速上手教程(视频)](http://i.youku.com/i/UNjIyODg4NTU4NA==?spm=a2hzp.8244740.0.0)
+
 ### [BetterAndbBetter 官网](http://www.better365.cn)
 
-### [BetterAndbBetter 官方论坛](http://www.better365.club)
+### [BetterAndbBetter 社区](http://www.better365.club)
