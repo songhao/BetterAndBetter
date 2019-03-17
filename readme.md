@@ -38,7 +38,7 @@
 通过在触摸板上单指、多指、点按、绘图等多个手势操作，代替点按图标，成倍提升工作效率。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/触摸模块.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/触摸模块.png' width="800"/>
 </p>
 </details> 
 
@@ -56,7 +56,7 @@
 在鼠标上自定义各种各样的手势，无限扩展鼠标的多样操作性。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/鼠标模块.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/鼠标模块.png' width="800"/>
 </p>
 </details> 
 
@@ -74,7 +74,7 @@
 自定义快捷键，繁琐操作一键搞定。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/键盘模块.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/键盘模块.png' width="800"/>
 </p>
 </details> 
 
@@ -86,7 +86,7 @@
 定制你的 Mac 情景模式，自动应对不同情景的变幻，让你的 Mac 更加智能。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/情景模式.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/情景模式.png' width="800"/>
 </p>
 </details> 
 
@@ -99,7 +99,7 @@
 文本、文件快捷操作百宝箱
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/自动跳窗.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/自动跳窗.png' width="800"/>
 </p>
 </details> 
 
@@ -123,7 +123,7 @@
 令人惊叹的快捷操作，闪电触发，一键抵达。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/四角触发.jpg' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/四角触发.jpg' width="800"/>
 </p>
 </details> 
 
@@ -138,7 +138,7 @@
 控制窗口用键盘、鼠标、还是触摸板？一切你说了算。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/窗口管理.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/窗口管理.png' width="800"/>
 </p>
 </details> 
 
@@ -199,7 +199,7 @@ BetterAndBetter 可以记住你最近使用过的十个剪切板内容，你还�
 AppleScript，给 BetterAndBetter 和你的 macOS 带来无限可能。
 
 <p float="left">
-   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/脚本模块.png' width="400"/>
+   <bt><img src='https://github.com/songhao/BetterAndBetter/blob/master/resources/img/脚本模块.png' width="800"/>
 </p>
 </details> 
 
