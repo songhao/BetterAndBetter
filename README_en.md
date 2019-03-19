@@ -5,7 +5,7 @@
 
 # BetterAndBetter
 
-BetterAndBetter 是一款集合众多优秀功能的 macOS 软件。包含🖱️鼠标、⌨️键盘、触摸板、情景模式、蓝牙解锁、自动切换输入法、:sound: 打字音效等功能，出色的创意和强大的功能将极大提升你的 macOS 使用体验。
+BetterAndBetter is a macOS software that contains many features. 包含🖱️鼠标、⌨️键盘、触摸板、情景模式、蓝牙解锁、自动切换输入法、:sound: 打字音效等功能，出色的创意和强大的功能将极大提升你的 macOS 使用体验。
 
 >   不断的修正 bug ，请及时更新。
 
@@ -21,17 +21,17 @@ BetterAndBetter 是一款集合众多优秀功能的 macOS 软件。包含🖱�
 <details>
 <summary>模块</summary>
 
-| 模块 | 功能 |
-| :---: | --- |
-| 触摸 | 用**触摸板手势**模拟按键、执行 AppleScript 等。 |
-| 鼠标 | 调节鼠标速度、加速度；用**鼠标手势**模拟按键、执行 AppleScript 等。 |
-| 键盘 |  |
-| 情景模式 | |
-| 自动跳窗 | 文件跳窗、文本跳窗：对选中的文字、文件进行快速操作。 |
-| 边角触发 |  |
-| 窗口管理 | 窗口管理：窗口拖移、吸附、分屏、高亮 |
-| 工具箱 | 多个小工具的集合。 |
-| 脚本 | 在 BetterAndBetter 使用 AppleScript 脚本 |
+|   模块   | 功能                                                         |
+| :------: | ------------------------------------------------------------ |
+|   触摸   | 用**触摸板手势**模拟按键、执行 AppleScript 等。              |
+|   鼠标   | 调节鼠标速度、加速度；用**鼠标手势**模拟按键、执行 AppleScript 等。 |
+|   键盘   |                                                              |
+| 情景模式 |                                                              |
+| 自动跳窗 | 文件跳窗、文本跳窗：对选中的文字、文件进行快速操作。         |
+| 边角触发 |                                                              |
+| 窗口管理 | 窗口管理：窗口拖移、吸附、分屏、高亮                         |
+|  工具箱  | 多个小工具的集合。                                           |
+|   脚本   | 在 BetterAndBetter 使用 AppleScript 脚本                     |
 
 </details>
 
@@ -95,6 +95,7 @@ BetterAndBetter 是一款集合众多优秀功能的 macOS 软件。包含🖱�
 </p>
 </details> 
 
+
 ## 5. 自动跳窗模块
 
 <details>
@@ -154,22 +155,22 @@ BetterAndBetter 是一款集合众多优秀功能的 macOS 软件。包含🖱�
 <details>
 <summary>简介</summary>
 
-| 工具 | 功能 |
-| --- | --- |
-| **蓝牙解锁** | 蓝牙设备控制 macOS 解锁/锁屏/开机 |
-| 平滑滚轮 | 让鼠标滚轮更丝滑 |
-| 打字音效 | 模拟老式打字机音效 |
-| 自动输入法 | 根据程序自动切换输入法 |
-| **剪切板管理**  | 管理剪切板历史 |
-| 显示快捷键 | 显示当前有效的快捷键 |
-| 菜单栏 | 显示系统信息及隐藏菜单栏图标 |
-| **取色模块** | 在光标附近显示颜色等信息 |
-| 数字小键盘 | 触摸板模拟数字小键盘 |
-| **长截图** | 滚动截图  |
-| **超级拖拽** |  |
-| 避免 ⌘Q 误操作 |  |
-| **清洁键盘，屏幕模式** |  |
-| **免打扰模式** | |
+| 工具                   | 功能                              |
+| ---------------------- | --------------------------------- |
+| **蓝牙解锁**           | 蓝牙设备控制 macOS 解锁/锁屏/开机 |
+| 平滑滚轮               | 让鼠标滚轮更丝滑                  |
+| 打字音效               | 模拟老式打字机音效                |
+| 自动输入法             | 根据程序自动切换输入法            |
+| **剪切板管理**         | 管理剪切板历史                    |
+| 显示快捷键             | 显示当前有效的快捷键              |
+| 菜单栏                 | 显示系统信息及隐藏菜单栏图标      |
+| **取色模块**           | 在光标附近显示颜色等信息          |
+| 数字小键盘             | 触摸板模拟数字小键盘              |
+| **长截图**             | 滚动截图                          |
+| **超级拖拽**           |                                   |
+| 避免 ⌘Q 误操作         |                                   |
+| **清洁键盘，屏幕模式** |                                   |
+| **免打扰模式**         |                                   |
 
 </details>
 
@@ -207,15 +208,6 @@ AppleScript，给 BetterAndBetter 和你的 macOS 带来无限可能。
 </p>
 </details> 
 
-## 高级设置
-
-### 配置文件地址
-
-
-```shell
-# /Users/$(whoami)/Library/Preferences/com.sunny.BetterAndBetter.plist
-cd /Users/$(whoami)/Library/Preferences/
-```
 
 
 ## 相关链接
@@ -225,3 +217,70 @@ cd /Users/$(whoami)/Library/Preferences/
 ### [BetterAndbBetter 官网](http://www.better365.cn)
 
 ### [BetterAndbBetter 社区](http://www.better365.club)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BetterAndBetter is a macOS software that contains many features
+
+一，the TouchPad function: 
+       1,this module is a gesture recognition application, in the MacBook series comes with the touchpad, the software will listen to your fingers, do different gestures, if the gesture is identified, BetterAndBetter will have to implement the rules of the corresponding operation.
+
+​        2,the current BetterAndBetter can simulate the button, the implementation of the software preset, the implementation of apple script.
+
+
+
+​        3,which has a switch is open two fingers drawing function, meaning that a certain distance from the two fingers on the touchpad slide, the equivalent of holding the right mouse button to do dragging action.
+
+
+
+二，the Drawing function:
+
+​        1，this module is also a gesture recognition application. The gesture is the movement of the mouse while holding down the right mouse button. If the gesture is recognized, BetterAndBetter will perform some operations.
+
+​        2， the current BetterAndBetter can simulate the button, the implementation of the software preset, the implementation of apple script.
+
+
+
+​        3，which has a min Score, which means that your mouse to draw the trajectory and the database has been set to match the degree of match, the value is generally set to 75 - 95, the specific can be based on your own actual operation after the feeling To set.
+
+
+
+三，the PopUp function:
+
+​        1，this module is similar to PopClip this software, hold down the left mouse button, and then drag to select the text or inside the Finder to select the file, the software will automatically jump out of different windows according to different circumstances, click on the window has been out, you can The corresponding action
+
+​        2，because there are two cell, so first click on a cell, and then press the "+" and other buttons. The contents of the table can be modified, and specifically reminded that the two lines inside the line can be dragged, in order to adjust the order of jumping the window
+
+
+
+​        3，the need for special explanation is the status bar, ⌘C, ⌘V, ⌘X and ⌘, it means that in the activation of the app in the copy, paste, cut button is lit, the corresponding logo will appear In the jump window, ⌘ means that in any case will appear in the jump window.
+
+
+
+四，the Trigger function:
+
+​        1，this module can be set in a different desktop, left or right click on the screen four corners, you can set some actions, these actions are shortcuts, preset actions and applescript.
+
+五，the BlueTooth unlock function:
+
+​        1，this module is required to enter the system password, by detecting the Bluetooth device has been paired to connect, can be connected to automatically enter the password. Only from sleep, screen saver, and close the screen to restore the need to detect Bluetooth, and other systems need to pass the password is not detected by Bluetooth, enter the password directly, such as the need to set the password in system preference; .
+
+​        2，when the photo shoot, if the activation of this button, that is, from sleep, screensavers, and closed screen recovery on the one hand when the detection of Bluetooth devices, and open the camera to take pictures, if the last did not detect the Bluetooth device, put photos Stored in the document, and can open icloud synchronization, so put the photo immediately to the clouds, and you can know who login your Mac.
