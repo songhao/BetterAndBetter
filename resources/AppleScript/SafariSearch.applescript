@@ -1,4 +1,3 @@
---Safari
 set myURL to "https://www.baidu.com/s?wd=SelectedText"
 tell application "Safari"
 	activate
