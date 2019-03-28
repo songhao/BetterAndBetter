@@ -4,11 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>增加了好几个很有用的预设和新的功能，大家慢慢找吧</li>
+                <li>现在BAB还是很稳定了，如果您觉得经常有不正常的现象，强烈建议您导出规则，恢复默认，再手工输入规则。因为也许您输入的规则有些是很早版本前输入的，经过多次版本大升级，难免规则有冲突，谢谢理解</li>
                 </ul>
             ]]></description>
-            <pubDate>2019-03-16 09:30:00 GMT</pubDate>
-            <enclosure url="http://u6.gg/rLrRC" sparkle:version="1.6.31" sparkle:shortVersionString="1.6.31">
+            <pubDate>2019-03-28 09:30:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/songhao/BetterAndBetter/master/BetterAndBetter.zip" sparkle:version="1.6.39" sparkle:shortVersionString="1.6.39">
             </enclosure>
         </item>
 	</channel>
