@@ -9,8 +9,9 @@ BetterAndBetter 是一款集合众多优秀功能的 macOS 软件。包含🖱�
 
 >   不断的修正 bug ，请及时更新。
 
-
 ## 使用技巧与用户体验
+
+[帮助文档](https://github.com/songhao/BetterAndBetter/blob/master/help/README.md)
 
 [Mac手势神器，不仅仅是手势 | 一个烧友的年度App](https://sspai.com/post/42788)
 
