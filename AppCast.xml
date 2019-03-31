@@ -4,11 +4,12 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
+                <li>适配10.14.5</li>
                 <li>现在BAB还是很稳定了，如果您觉得经常有不正常的现象，强烈建议您导出规则，恢复默认，再手工输入规则。因为也许您输入的规则有些是很早版本前输入的，经过多次版本大升级，难免规则有冲突，谢谢理解</li>
                 </ul>
             ]]></description>
             <pubDate>2019-03-28 09:30:00 GMT</pubDate>
-            <enclosure url="http://u6.gg/snhe3" sparkle:version="1.6.39" sparkle:shortVersionString="1.6.39">
+            <enclosure url="http://u6.gg/sn8Ty" sparkle:version="1.6.41" sparkle:shortVersionString="1.6.41">
             </enclosure>
         </item>
 	</channel>
