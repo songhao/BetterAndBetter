@@ -4,12 +4,12 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>⚠️新版本修改了很多地方，发现有什么问题去社区留言，谢谢</li>
+                <li>优化了自动输入法和数字小键盘模块，请大家测试</li>
                 <li>⚠️新的版本修改了数据库，发现BAB不太正常，请恢复默认，重新手工输入规则</li>
                 </ul>
             ]]></description>
-            <pubDate>2019-04-23 09:00:00 GMT</pubDate>
-            <enclosure url="http://u6.gg/sw8Ub" sparkle:version="1.6.57" sparkle:shortVersionString="1.6.57">
+            <pubDate>2019-04-30 09:00:00 GMT</pubDate>
+            <enclosure url="http://u6.gg/sySPc" sparkle:version="1.6.60" sparkle:shortVersionString="1.6.60">
             </enclosure>
         </item>
 	</channel>
