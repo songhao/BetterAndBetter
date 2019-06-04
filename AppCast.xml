@@ -4,11 +4,11 @@
 	<item>
             <description><![CDATA[<ul>
                 <li>修改bug</li>
-                <li>⚠️新的版本修改了数据库，发现BAB不太正常，请恢复默认，重新手工输入规则</li>
+                <li>适配10.15</li>
                 </ul>
             ]]></description>
-            <pubDate>2019-06-01 09:00:00 GMT</pubDate>
-            <enclosure url="http://u6.gg/sCBrV" sparkle:version="1.6.67" sparkle:shortVersionString="1.6.67">
+            <pubDate>2019-06-04 09:00:00 GMT</pubDate>
+            <enclosure url="http://u6.gg/sDuXS" sparkle:version="1.6.68" sparkle:shortVersionString="1.6.68">
             </enclosure>
         </item>
 	</channel>
