@@ -3,12 +3,15 @@
 		<channel>
 	<item>
             <description><![CDATA[<ul>
-                <li>修改bug</li>
-                <li>适配10.15</li>
+                <li>             自动切换输入法和Better Menubar上架App Store</li>
+                <li>下载地址：</li>
+                <li>        1,https://apps.apple.com/cn/app/自动切换输入法/id1470350547</li>
+                <li>        2,https://apps.apple.com/cn/app/better-menubar/id1472818562</li>
+                <li>       🙏🙏🙏 希望大家踊跃下载并给予五星好评 🙏🙏🙏</li>
                 </ul>
             ]]></description>
             <pubDate>2019-06-15 09:00:00 GMT</pubDate>
-            <enclosure url="http://u6.gg/sGk6y" sparkle:version="1.6.75" sparkle:shortVersionString="1.6.75">
+            <enclosure url="http://985.so/a7Wy" sparkle:version="1.6.76" sparkle:shortVersionString="1.6.76">
             </enclosure>
         </item>
 	</channel>
