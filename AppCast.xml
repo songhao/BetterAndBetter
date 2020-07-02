@@ -3,15 +3,11 @@
 		<channel>
 	<item>
             <description><![CDATA[<ul>
-                <li>             自动切换输入法和Better Menubar上架App Store</li>
-                <li>下载地址：</li>
-                <li>        1,https://apps.apple.com/cn/app/自动切换输入法/id1470350547</li>
-                <li>        2,https://apps.apple.com/cn/app/better-menubar/id1472818562</li>
-                <li>       🙏🙏🙏 希望大家踊跃下载并给予五星好评 🙏🙏🙏</li>
+                <li>全新的BAB 2.0内测版现已发布，欢迎BAB用户,加内测群：1030974631，获取内测包</li>
                 </ul>
             ]]></description>
             <pubDate>2019-06-15 09:00:00 GMT</pubDate>
-            <enclosure url="http://uee.me/aXwzw" sparkle:version="1.6.77" sparkle:shortVersionString="1.6.77">
+            <enclosure url="" sparkle:version="2.0.0" sparkle:shortVersionString="0">
             </enclosure>
         </item>
 	</channel>
